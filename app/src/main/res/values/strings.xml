@@ -1,0 +1,56 @@
+<resources>
+    <!--Global-->
+    <string name="app_name">Food Manager</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main activity (app) -->
+    <string name="total">Total</string>
+    <string name="breakfast">Esmorzar</string>
+    <string name="afegir">Afegir</string>
+    <string name="lunch">Dinar</string>
+    <string name="snack">Berenar</string>
+    <string name="dinner">Sopar</string>
+    <string name="search">Search</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="title_activity_nou">Nou producte</string>
+    <string name="title_activity_llistaproductes">Llista de productes</string>
+    <string name="title_activity_quantity">Quantitat</string>
+    <string name="title_activity_informacio_aliment">Informació aliment</string>
+
+
+    <!-- PortionActivity activity -->
+    <string name="portionTitleText">Introdueix quantitat</string>
+    <string name="portionSaveButtonText">Desar</string>
+    <string name="portionCancelButtonText">Cancel·lar</string>
+    <string name="nom_aliment_infoMeal">Nom aliment</string>
+    <string name="portion_infoMeal">Porció de</string>
+    <string name="measure">grams</string>
+    <string name="brand">Marca</string>
+    <string name="nutritional_info">Informació nutricional</string>
+    <string name="calories">Caloríes</string>
+    <string name="carbohydrates">Carbohidrats</string>
+    <string name="proteins">Proteïnes</string>
+    <string name="fat">Greixos</string>
+    <string name="cancel">Cancel·lar</string>
+    <string name="adding">Afegir</string>
+    <string name="meal">Aliment</string>
+    <string name="fat_activity">Greix</string>
+    <string name="carbohydrates_activity">Carbohid.</string>
+    <string name="protein_activity">Proteïnes</string>
+    <string name="calories_activity">Caloríes</string>
+    <string name="protein_hint">1</string>
+    <string name="fat_hint">2</string>
+    <string name="product_name">Producte</string>
+    <string name="name_new">Nom</string>
+    <string name="hint_name">Ex: Sopa</string>
+    <string name="hint_brand">Mercadona</string>
+    <string name="portion_new">Porció (g)</string>
+    <string name="hint_portion">100</string>
+    <string name="hint_calories">34</string>
+    <string name="hint_carbohydrates">10</string>
+    <string name="all_meals">Àpats</string>
+    <string name="protein_noLandscape">Proteïn.</string>
+    <string name="calories_noLandscape">Calor.</string>
+</resources>
